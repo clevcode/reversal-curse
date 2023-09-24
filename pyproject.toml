@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "reversal-curse"
+version = "0.1.0"
+description = ""
+authors = ["Joel Eriksson <je@clevcode.org>"]
+packages = [{include = "reversal_curse"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+openai = "^0.28.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
