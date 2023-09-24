@@ -6,7 +6,7 @@ that was immediately obvious to me upon reading the paper, given the
 intuition and understanding I have built up regarding language models
 so far.
 
-![The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"](https://arxiv.org/pdf/2309.12288.pdf)
+[The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"](https://arxiv.org/pdf/2309.12288.pdf)
 
 Although the results in the paper are valid and important to understand,
 they don't tell the full story about what is really going on, and they
@@ -55,7 +55,7 @@ then backwards for a very simple example of this.
 
 Also note that non-human animals show almost no reverse recall:
 
-![https://www.biorxiv.org/content/10.1101/2023.03.04.531109v1.abstract](Brain mechanisms of reversible symbolic reference: a potential singularity of the human brain)
+[https://www.biorxiv.org/content/10.1101/2023.03.04.531109v1.abstract](Brain mechanisms of reversible symbolic reference: a potential singularity of the human brain)
 
 ## Results
 
