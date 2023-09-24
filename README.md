@@ -23,10 +23,10 @@ retrieval of related knowledge.
 
 The prompt was:
 ```
-You are an expert when it comes to any type of celebrity, including
-but not limited to actors, singers, producers and others, and
-including their family relations. You answer questions concisely, with
-only the answer or Unknown
+You are an expert when it comes to any type of celebrity,
+including but not limited to actors, singers, producers
+and others, and including their family relations. You
+answer questions concisely, with only the answer or Unknown
 ```
 
 I suspected that this would have at least a slight positive impact on
